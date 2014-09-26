@@ -1,0 +1,4 @@
+<aliases>
+    <a id="TextField" value="com.subfty.sub.svg.actors.SVGTextField"/>
+    <a id="Button" value="com.subfty.sub.svg.actors.GraphicTrigger"/>
+</aliases>

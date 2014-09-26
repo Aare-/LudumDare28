@@ -1,0 +1,2510 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1200"
+   height="1200"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="map.svg">
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="900.15212"
+     inkscape:cy="788.53325"
+     inkscape:document-units="px"
+     inkscape:current-layer="Background"
+     showgrid="false"
+     inkscape:window-width="1779"
+     inkscape:window-height="1042"
+     inkscape:window-x="2"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0" />
+  <defs
+     id="defs4" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Background"
+     id="Background"
+     inkscape:groupmode="layer"
+     style="display:inline">
+    <image
+       y="580.99634"
+       x="562.29205"
+       id="image3035"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/schron/wlaz.png"
+       height="15"
+       width="17" />
+    <image
+       y="477.42096"
+       x="752.99512"
+       id="image3046"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/ground/grass1.png"
+       height="144"
+       width="284" />
+    <image
+       y="743.91846"
+       x="929.79468"
+       id="image3057"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/ground/grass2.png"
+       height="108"
+       width="189" />
+    <image
+       y="703.01227"
+       x="446.31995"
+       id="image3145"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/ground/grass3.png"
+       height="109"
+       width="166" />
+    <image
+       y="142.05031"
+       x="674.20325"
+       id="image3046-1"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/ground/grass1.png"
+       height="144"
+       width="284" />
+    <image
+       y="402.66965"
+       x="284.28439"
+       id="image3046-7"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/ground/grass1.png"
+       height="144"
+       width="284" />
+    <image
+       y="881.48206"
+       x="39.827477"
+       id="image3046-4"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/ground/grass1.png"
+       height="144"
+       width="284" />
+    <image
+       y="539.86768"
+       x="200.46458"
+       id="image3057-0"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/ground/grass2.png"
+       height="108"
+       width="189" />
+    <image
+       y="125.7051"
+       x="206.52547"
+       id="image3057-9"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/ground/grass2.png"
+       height="108"
+       width="189" />
+    <image
+       y="1069.1875"
+       x="667.15503"
+       id="image3057-4"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/ground/grass2.png"
+       height="108"
+       width="189" />
+    <image
+       y="772.46045"
+       x="100.59525"
+       id="image3145-8"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/ground/grass3.png"
+       height="109"
+       width="166" />
+    <image
+       y="28.230482"
+       x="1016.0459"
+       id="image3145-82"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/ground/grass3.png"
+       height="109"
+       width="166" />
+    <image
+       y="262.15302"
+       x="43.10244"
+       id="image3256"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/ground/road2.png"
+       height="81"
+       width="76" />
+    <image
+       y="261.72943"
+       x="118.89351"
+       id="image3267"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/ground/road3.png"
+       height="81"
+       width="76" />
+    <image
+       y="261.20416"
+       x="194.37279"
+       id="image3278"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/ground/road4.png"
+       height="81"
+       width="76" />
+    <image
+       y="261.17761"
+       x="269.34262"
+       id="image3256-4"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/ground/road2.png"
+       height="81"
+       width="76" />
+    <image
+       y="261.17761"
+       x="344.34262"
+       id="image3245-5"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/ground/road1.png"
+       height="81"
+       width="76" />
+    <image
+       y="261.29486"
+       x="420.13602"
+       id="image3256-5"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/ground/road2.png"
+       height="81"
+       width="76" />
+    <image
+       y="260.87128"
+       x="495.92703"
+       id="image3267-1"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/ground/road3.png"
+       height="81"
+       width="76" />
+    <image
+       y="260.34601"
+       x="571.40631"
+       id="image3278-7"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/ground/road4.png"
+       height="81"
+       width="76" />
+    <image
+       y="259.96924"
+       x="722.29559"
+       id="image3267-15"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/ground/road3.png"
+       height="81"
+       width="76" />
+    <image
+       y="259.44397"
+       x="797.7749"
+       id="image3278-2"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/ground/road4.png"
+       height="81"
+       width="76" />
+    <image
+       y="259.50781"
+       x="872.11658"
+       id="image3245-5-7"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/ground/road1.png"
+       height="81"
+       width="76" />
+    <image
+       y="259.62506"
+       x="947.91003"
+       id="image3256-5-6"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/ground/road2.png"
+       height="81"
+       width="76" />
+    <image
+       y="259.39191"
+       x="1023.2713"
+       id="image3416"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/ground/road-end.png"
+       height="81"
+       width="76" />
+    <image
+       y="890.35809"
+       x="917.34033"
+       id="image3245-3"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/ground/road1.png"
+       height="81"
+       width="76" />
+    <image
+       y="890.4035"
+       x="991.82886"
+       id="image3256-2"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/ground/road2.png"
+       height="81"
+       width="76" />
+    <image
+       y="889.97992"
+       x="1067.62"
+       id="image3267-2"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/ground/road3.png"
+       height="81"
+       width="76" />
+    <image
+       y="1415.1423"
+       x="1501.6405"
+       id="image3245-5-8"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/ground/road1.png"
+       height="81"
+       width="76" />
+    <image
+       y="1415.2596"
+       x="1577.4338"
+       id="image3256-5-5"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/ground/road2.png"
+       height="81"
+       width="76" />
+    <image
+       y="1414.8361"
+       x="1653.225"
+       id="image3267-1-7"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/ground/road3.png"
+       height="81"
+       width="76" />
+    <image
+       y="1414.3108"
+       x="1728.7042"
+       id="image3278-7-6"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/ground/road4.png"
+       height="81"
+       width="76" />
+    <image
+       y="1414.3575"
+       x="1803.8025"
+       id="image3256-1-1"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/ground/road2.png"
+       height="81"
+       width="76" />
+    <image
+       y="892.22168"
+       x="164.96326"
+       id="image3245-8"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/ground/road1.png"
+       height="81"
+       width="76" />
+    <image
+       y="892.26709"
+       x="239.45178"
+       id="image3256-9"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/ground/road2.png"
+       height="81"
+       width="76" />
+    <image
+       y="891.84351"
+       x="315.24286"
+       id="image3267-27"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/ground/road3.png"
+       height="81"
+       width="76" />
+    <image
+       y="891.31824"
+       x="390.72211"
+       id="image3278-9"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/ground/road4.png"
+       height="81"
+       width="76" />
+    <image
+       y="891.29175"
+       x="465.69189"
+       id="image3256-4-5"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/ground/road2.png"
+       height="81"
+       width="76" />
+    <image
+       y="891.29175"
+       x="540.69189"
+       id="image3245-5-4"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/ground/road1.png"
+       height="81"
+       width="76" />
+    <image
+       y="891.40894"
+       x="616.48529"
+       id="image3256-5-3"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/ground/road2.png"
+       height="81"
+       width="76" />
+    <image
+       y="890.98535"
+       x="692.27637"
+       id="image3267-1-12"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/ground/road3.png"
+       height="81"
+       width="76" />
+    <image
+       y="890.46008"
+       x="767.75568"
+       id="image3278-7-3"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/ground/road4.png"
+       height="81"
+       width="76" />
+    <image
+       y="890.50696"
+       x="842.854"
+       id="image3256-1-3"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/ground/road2.png"
+       height="81"
+       width="76" />
+    <image
+       y="1414.5"
+       x="1879.1428"
+       id="image3497"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/ground/road-end.png"
+       height="81"
+       width="76" />
+    <image
+       y="890.21429"
+       x="1143.2501"
+       id="image3508"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/ground/road-end.png"
+       height="81"
+       width="76" />
+    <image
+       y="778.55701"
+       x="232.86937"
+       id="image5048"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/budynki/stacja-bg.png"
+       height="108"
+       width="155" />
+    <image
+       y="730.19354"
+       x="595.87109"
+       id="image5099"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/budynki/motel-bg.png"
+       height="158"
+       width="328" />
+    <image
+       style="display:inline"
+       y="140.50169"
+       x="505.52582"
+       id="image5132"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/budynki/diner-bg.png"
+       height="118"
+       width="148" />
+    <image
+       y="892.18835"
+       x="104.81031"
+       id="image5632"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/ground/road-end2.png"
+       height="81"
+       width="76" />
+    <image
+       style="display:inline"
+       y="262.10574"
+       x="-21.332483"
+       id="image5632-4"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/ground/road-end2.png"
+       height="81"
+       width="76" />
+    <image
+       style="display:inline"
+       y="259.95917"
+       x="664.81366"
+       id="image5632-3"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/ground/road-end2.png"
+       height="81"
+       width="76" />
+    <image
+       style="display:inline"
+       y="260.2117"
+       x="647.0097"
+       id="image3416-8"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/ground/road-end.png"
+       height="81"
+       width="76" />
+    <image
+       style="display:inline"
+       y="750.32098"
+       x="214.27925"
+       id="image3295"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/newbuild/img/budynki/latryna-1.png"
+       height="18"
+       width="25" />
+    <image
+       y="26.285717"
+       x="144.5"
+       id="image3285"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/smieci-group/smieci1.png"
+       height="171"
+       width="171" />
+    <image
+       style="display:inline"
+       y="480.92859"
+       x="588.07141"
+       id="image3285-1"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/smieci-group/smieci1.png"
+       height="171"
+       width="171" />
+    <image
+       style="display:inline"
+       y="418.07144"
+       x="963.78571"
+       id="image3285-7"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/smieci-group/smieci1.png"
+       height="171"
+       width="171" />
+    <image
+       style="display:inline"
+       y="903.07141"
+       x="492.35715"
+       id="image3285-4"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/smieci-group/smieci1.png"
+       height="171"
+       width="171" />
+    <image
+       style="display:inline"
+       y="975.21429"
+       x="45.214291"
+       id="image3285-0"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/smieci-group/smieci1.png"
+       height="171"
+       width="171" />
+    <image
+       y="983.07141"
+       x="381.64285"
+       id="image3335"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/smieci-group/smieci2.png"
+       height="171"
+       width="171" />
+    <image
+       style="display:inline"
+       y="1028.7856"
+       x="730.21429"
+       id="image3335-4"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/smieci-group/smieci2.png"
+       height="171"
+       width="171" />
+    <image
+       style="display:inline"
+       y="778.78571"
+       x="920.92859"
+       id="image3335-8"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/smieci-group/smieci2.png"
+       height="171"
+       width="171" />
+    <image
+       style="display:inline"
+       y="311.64285"
+       x="414.5"
+       id="image3335-82"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/smieci-group/smieci2.png"
+       height="171"
+       width="171" />
+    <image
+       style="display:inline"
+       y="38.785717"
+       x="563.78571"
+       id="image3335-45"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/smieci-group/smieci2.png"
+       height="171"
+       width="171" />
+    <image
+       style="display:inline"
+       y="55.214283"
+       x="905.21429"
+       id="image3335-5"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/smieci-group/smieci2.png"
+       height="171"
+       width="171" />
+    <image
+       style="display:inline"
+       y="302.35715"
+       x="48.785717"
+       id="image3335-1"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/smieci-group/smieci2.png"
+       height="171"
+       width="171" />
+    <image
+       y="530.92859"
+       x="102.35713"
+       id="image3431"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/smieci-group/smieci3.png"
+       height="171"
+       width="171" />
+    <image
+       y="494.5"
+       x="809.5"
+       id="image3449"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/smieci-group/smieci3.png"
+       height="171"
+       width="171" />
+    <image
+       style="display:inline"
+       y="855.92859"
+       x="251.64285"
+       id="image3449-2"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/smieci-group/smieci3.png"
+       height="171"
+       width="171" />
+    <image
+       style="display:inline"
+       y="29.5"
+       x="324.5"
+       id="image3449-7"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/smieci-group/smieci3.png"
+       height="171"
+       width="171" />
+    <image
+       y="1023.7857"
+       x="939.50006"
+       id="image3485"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/smieci-group/smieci4.png"
+       height="171"
+       width="171" />
+    <image
+       style="display:inline"
+       y="600.92853"
+       x="958.78571"
+       id="image3485-6"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/smieci-group/smieci4.png"
+       height="171"
+       width="171" />
+    <image
+       style="display:inline"
+       y="38.785713"
+       x="905.21429"
+       id="image3485-1"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/smieci-group/smieci4.png"
+       height="171"
+       width="171" />
+    <image
+       style="display:inline"
+       y="479.5"
+       x="338.07141"
+       id="image3485-4"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/smieci-group/smieci4.png"
+       height="171"
+       width="171" />
+    <image
+       style="display:inline"
+       y="165.92857"
+       x="611.64288"
+       id="image3485-2"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/smieci-group/smieci4.png"
+       height="171"
+       width="171" />
+  </g>
+  <g
+     style="display:inline"
+     id="MapItems"
+     inkscape:groupmode="layer"
+     inkscape:label="MapItems">
+    <image
+       y="772.80432"
+       x="413.06354"
+       id="image3585"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/budynki/01.png"
+       height="127"
+       width="82" />
+    <image
+       y="321.89194"
+       x="145.84261"
+       id="image3607"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/budynki/magazyn.png"
+       height="241"
+       width="188" />
+    <image
+       y="820.35712"
+       x="967.5"
+       id="image3629"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/budynki/07.png"
+       height="75"
+       width="70" />
+    <image
+       y="963.14929"
+       x="560.55139"
+       id="image3640"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/budynki/06b.png"
+       height="86"
+       width="82" />
+    <image
+       y="804.87213"
+       x="507.49249"
+       id="image3739"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/budynki/04.png"
+       height="91"
+       width="34" />
+    <image
+       y="961.57788"
+       x="670.69427"
+       id="image3750"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/budynki/09b.png"
+       height="122"
+       width="126" />
+    <image
+       y="179.45894"
+       x="21.160267"
+       id="image3761"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/budynki/05.png"
+       height="86"
+       width="82" />
+    <image
+       y="179.2133"
+       x="115.98547"
+       id="image3772"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/budynki/06.png"
+       height="86"
+       width="82" />
+    <image
+       style="display:inline"
+       y="137.35732"
+       x="235.25809"
+       id="image3794"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/budynki/02.png"
+       height="136"
+       width="66" />
+    <image
+       style="display:inline"
+       y="321.28592"
+       x="349.54382"
+       id="image3805"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/budynki/02b.png"
+       height="136"
+       width="66" />
+    <image
+       style="display:inline"
+       y="141.50017"
+       x="316.32956"
+       id="image3816"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/budynki/08.png"
+       height="122"
+       width="176" />
+    <image
+       y="773.53827"
+       x="1051.1249"
+       id="image3865"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/budynki/01.png"
+       height="127"
+       width="82" />
+    <image
+       y="1333.7858"
+       x="1443.6428"
+       id="image3876"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/budynki/06.png"
+       height="86"
+       width="82" />
+    <image
+       y="326.54968"
+       x="633.30579"
+       id="image3887"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/budynki/09b.png"
+       height="122"
+       width="126" />
+    <image
+       y="327.60614"
+       x="773.84253"
+       id="image3898"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/budynki/06b.png"
+       height="86"
+       width="82" />
+    <image
+       y="952.75458"
+       x="814.36206"
+       id="image3909"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/budynki/02b.png"
+       height="136"
+       width="66" />
+    <image
+       y="952.3974"
+       x="895.43359"
+       id="image3920"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/budynki/02b.png"
+       height="136"
+       width="66" />
+    <image
+       y="143.37653"
+       x="729.23871"
+       id="image3931"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/budynki/01.png"
+       height="127"
+       width="82" />
+    <image
+       y="175.02461"
+       x="824.45544"
+       id="image3964"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/budynki/04.png"
+       height="91"
+       width="34" />
+    <image
+       y="1330.6736"
+       x="1666.1864"
+       id="image3975"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/budynki/04.png"
+       height="91"
+       width="34" />
+    <image
+       style="display:inline"
+       y="1330.7308"
+       x="1710.3608"
+       id="image3975-4"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/budynki/04.png"
+       height="91"
+       width="34" />
+    <image
+       style="display:inline"
+       y="1330.7308"
+       x="1754.8076"
+       id="image3975-1"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/budynki/04.png"
+       height="91"
+       width="34" />
+    <image
+       y="960.52167"
+       x="264.6022"
+       id="image4055"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/walls/plot1.png"
+       height="27"
+       width="25" />
+    <image
+       style="display:inline"
+       y="960.42865"
+       x="288.57132"
+       id="image4055-1"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/walls/plot1.png"
+       height="27"
+       width="25" />
+    <image
+       style="display:inline"
+       y="960.30389"
+       x="312.68948"
+       id="image4055-3"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/walls/plot1.png"
+       height="27"
+       width="25" />
+    <image
+       style="display:inline"
+       y="960.21088"
+       x="336.6586"
+       id="image4055-1-8"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/walls/plot1.png"
+       height="27"
+       width="25" />
+    <image
+       style="display:inline"
+       y="960.05133"
+       x="360.67166"
+       id="image4055-7"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/walls/plot1.png"
+       height="27"
+       width="25" />
+    <image
+       style="display:inline"
+       y="959.95831"
+       x="384.64078"
+       id="image4055-1-4"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/walls/plot1.png"
+       height="27"
+       width="25" />
+    <image
+       style="display:inline"
+       y="960.46332"
+       x="240.69414"
+       id="image4055-1-3"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/walls/plot1.png"
+       height="27"
+       width="25" />
+    <image
+       style="display:inline"
+       y="960.57147"
+       x="215.6071"
+       id="image4077-1"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/walls/plot2.png"
+       height="41"
+       width="2" />
+    <image
+       style="display:inline"
+       y="980.39288"
+       x="215.6071"
+       id="image4077-9"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/walls/plot2.png"
+       height="41"
+       width="2" />
+    <image
+       style="display:inline"
+       y="1024.6785"
+       x="215.42863"
+       id="image4077-8"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/walls/plot2.png"
+       height="41"
+       width="2" />
+    <image
+       style="display:inline"
+       y="1043.4285"
+       x="215.42851"
+       id="image4077-6"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/walls/plot2.png"
+       height="41"
+       width="2" />
+    <image
+       style="display:inline"
+       y="959.85724"
+       x="456.58939"
+       id="image4077-1-5"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/walls/plot2.png"
+       height="41"
+       width="2" />
+    <image
+       style="display:inline"
+       y="979.67865"
+       x="456.58939"
+       id="image4077-9-0"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/walls/plot2.png"
+       height="41"
+       width="2" />
+    <image
+       style="display:inline"
+       y="1057.1215"
+       x="264.34012"
+       id="image4055-6"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/walls/plot1.png"
+       height="27"
+       width="25" />
+    <image
+       style="display:inline"
+       y="1057.0284"
+       x="288.30923"
+       id="image4055-1-0"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/walls/plot1.png"
+       height="27"
+       width="25" />
+    <image
+       style="display:inline"
+       y="1056.9037"
+       x="312.4274"
+       id="image4055-3-2"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/walls/plot1.png"
+       height="27"
+       width="25" />
+    <image
+       style="display:inline"
+       y="1056.8107"
+       x="336.39651"
+       id="image4055-1-8-4"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/walls/plot1.png"
+       height="27"
+       width="25" />
+    <image
+       style="display:inline"
+       y="1056.6511"
+       x="360.40958"
+       id="image4055-7-8"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/walls/plot1.png"
+       height="27"
+       width="25" />
+    <image
+       style="display:inline"
+       y="1056.5581"
+       x="384.37869"
+       id="image4055-1-4-6"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/walls/plot1.png"
+       height="27"
+       width="25" />
+    <image
+       style="display:inline"
+       y="1056.5581"
+       x="432.10855"
+       id="image4055-1-7-0"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/walls/plot1.png"
+       height="27"
+       width="25" />
+    <image
+       style="display:inline"
+       y="1057.0631"
+       x="240.43205"
+       id="image4055-1-3-0"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/walls/plot1.png"
+       height="27"
+       width="25" />
+    <image
+       style="display:inline"
+       y="1461.3901"
+       x="-183.95137"
+       id="image4055-6-9"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/walls/plot1.png"
+       height="27"
+       width="25" />
+    <image
+       style="display:inline"
+       y="1461.2971"
+       x="-159.98225"
+       id="image4055-1-0-3"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/walls/plot1.png"
+       height="27"
+       width="25" />
+    <image
+       style="display:inline"
+       y="1461.1724"
+       x="-135.86421"
+       id="image4055-3-2-4"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/walls/plot1.png"
+       height="27"
+       width="25" />
+    <image
+       style="display:inline"
+       y="1461.0793"
+       x="-111.8951"
+       id="image4055-1-8-4-4"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/walls/plot1.png"
+       height="27"
+       width="25" />
+    <image
+       style="display:inline"
+       y="1460.9198"
+       x="-87.882042"
+       id="image4055-7-8-6"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/walls/plot1.png"
+       height="27"
+       width="25" />
+    <image
+       style="display:inline"
+       y="1460.9198"
+       x="-40.15218"
+       id="image4055-2-5-6"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/walls/plot1.png"
+       height="27"
+       width="25" />
+    <image
+       style="display:inline"
+       y="1460.8268"
+       x="-16.183065"
+       id="image4055-1-7-0-6"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/walls/plot1.png"
+       height="27"
+       width="25" />
+    <image
+       style="display:inline"
+       y="1461.3318"
+       x="-207.85945"
+       id="image4055-1-3-0-1"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/walls/plot1.png"
+       height="27"
+       width="25" />
+    <image
+       style="display:inline"
+       y="1461.5648"
+       x="-328.16763"
+       id="image4055-6-9-4"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/walls/plot1.png"
+       height="27"
+       width="25" />
+    <image
+       style="display:inline"
+       y="1461.4718"
+       x="-304.19852"
+       id="image4055-1-0-3-9"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/walls/plot1.png"
+       height="27"
+       width="25" />
+    <image
+       style="display:inline"
+       y="1461.347"
+       x="-280.08047"
+       id="image4055-3-2-4-6"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/walls/plot1.png"
+       height="27"
+       width="25" />
+    <image
+       style="display:inline"
+       y="1461.254"
+       x="-256.11136"
+       id="image4055-1-8-4-4-3"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/walls/plot1.png"
+       height="27"
+       width="25" />
+    <image
+       style="display:inline"
+       y="1461.5065"
+       x="-352.07571"
+       id="image4055-1-3-0-1-7"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/walls/plot1.png"
+       height="27"
+       width="25" />
+    <image
+       y="464.92856"
+       x="895.42853"
+       id="image4419"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/walls/wall2.png"
+       height="48"
+       width="27" />
+    <image
+       y="881.42853"
+       x="1739.8929"
+       id="image4430"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/walls/wall3.png"
+       height="65"
+       width="7" />
+    <image
+       y="935.28571"
+       x="1839.2144"
+       id="image4441"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/walls/wall-end.png"
+       height="48"
+       width="23" />
+    <image
+       style="display:inline"
+       y="319.21832"
+       x="922.46124"
+       id="image4408-2"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/walls/wall1.png"
+       height="48"
+       width="27" />
+    <image
+       style="display:inline"
+       y="319.25568"
+       x="949.45898"
+       id="image4408-8-9"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/walls/wall1.png"
+       height="48"
+       width="27" />
+    <image
+       style="display:inline"
+       y="319.2627"
+       x="976.3512"
+       id="image4408-1"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/walls/wall1.png"
+       height="48"
+       width="27" />
+    <image
+       style="display:inline"
+       y="319.30005"
+       x="1003.349"
+       id="image4408-8-3"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/walls/wall1.png"
+       height="48"
+       width="27" />
+    <image
+       style="display:inline"
+       y="319.31934"
+       x="1030.3131"
+       id="image4408-2-5"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/walls/wall1.png"
+       height="48"
+       width="27" />
+    <image
+       style="display:inline"
+       y="319.35669"
+       x="1057.3109"
+       id="image4408-8-9-9"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/walls/wall1.png"
+       height="48"
+       width="27" />
+    <image
+       style="display:inline"
+       y="368.39777"
+       x="1077.3254"
+       id="image4430-8"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/walls/wall3.png"
+       height="65"
+       width="7" />
+    <image
+       style="display:inline"
+       y="390.40851"
+       x="1077.3386"
+       id="image4430-8-4-0"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/walls/wall3.png"
+       height="65"
+       width="7" />
+    <image
+       style="display:inline"
+       y="464.84973"
+       x="868.45013"
+       id="image4408-7"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/walls/wall1.png"
+       height="48"
+       width="27" />
+    <image
+       style="display:inline"
+       y="464.90637"
+       x="922.41205"
+       id="image4408-2-3"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/walls/wall1.png"
+       height="48"
+       width="27" />
+    <image
+       style="display:inline"
+       y="464.94373"
+       x="949.40979"
+       id="image4408-8-9-6"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/walls/wall1.png"
+       height="48"
+       width="27" />
+    <image
+       style="display:inline"
+       y="464.95068"
+       x="976.302"
+       id="image4408-1-1"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/walls/wall1.png"
+       height="48"
+       width="27" />
+    <image
+       style="display:inline"
+       y="464.98804"
+       x="1003.2998"
+       id="image4408-8-3-5"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/walls/wall1.png"
+       height="48"
+       width="27" />
+    <image
+       style="display:inline"
+       y="465.00732"
+       x="1030.2639"
+       id="image4408-2-5-4"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/walls/wall1.png"
+       height="48"
+       width="27" />
+    <image
+       style="display:inline"
+       y="90.847801"
+       x="1683.4496"
+       id="image4430-8-4-7"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/walls/wall3.png"
+       height="65"
+       width="7" />
+    <image
+       style="display:inline"
+       y="112.86129"
+       x="1683.4481"
+       id="image4430-8-3"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/walls/wall3.png"
+       height="65"
+       width="7" />
+    <image
+       style="display:inline"
+       y="134.87204"
+       x="1683.4613"
+       id="image4430-8-4-0-7"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/walls/wall3.png"
+       height="65"
+       width="7" />
+    <image
+       style="display:inline"
+       y="26.633142"
+       x="1855.8248"
+       id="image4408-8-2"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/walls/wall1.png"
+       height="48"
+       width="27" />
+    <image
+       style="display:inline"
+       y="26.65243"
+       x="1882.7889"
+       id="image4408-2-6"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/walls/wall1.png"
+       height="48"
+       width="27" />
+    <image
+       style="display:inline"
+       y="26.689783"
+       x="1909.7867"
+       id="image4408-8-9-0"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/walls/wall1.png"
+       height="48"
+       width="27" />
+    <image
+       style="display:inline"
+       y="26.696802"
+       x="1936.679"
+       id="image4408-1-16"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/walls/wall1.png"
+       height="48"
+       width="27" />
+    <image
+       style="display:inline"
+       y="26.734156"
+       x="1963.6768"
+       id="image4408-8-3-57"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/walls/wall1.png"
+       height="48"
+       width="27" />
+    <image
+       style="display:inline"
+       y="26.753443"
+       x="1990.6409"
+       id="image4408-2-5-5"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/walls/wall1.png"
+       height="48"
+       width="27" />
+    <image
+       style="display:inline"
+       y="26.790796"
+       x="2017.6387"
+       id="image4408-8-9-9-4"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/walls/wall1.png"
+       height="48"
+       width="27" />
+    <image
+       style="display:inline"
+       y="26.528727"
+       x="1667.0099"
+       id="image4408-8-1"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/walls/wall1.png"
+       height="48"
+       width="27" />
+    <image
+       style="display:inline"
+       y="26.548014"
+       x="1693.974"
+       id="image4408-2-2"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/walls/wall1.png"
+       height="48"
+       width="27" />
+    <image
+       style="display:inline"
+       y="26.585367"
+       x="1720.9718"
+       id="image4408-8-9-00"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/walls/wall1.png"
+       height="48"
+       width="27" />
+    <image
+       style="display:inline"
+       y="26.592386"
+       x="1747.864"
+       id="image4408-1-14"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/walls/wall1.png"
+       height="48"
+       width="27" />
+    <image
+       style="display:inline"
+       y="26.62974"
+       x="1774.8618"
+       id="image4408-8-3-6"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/walls/wall1.png"
+       height="48"
+       width="27" />
+    <image
+       style="display:inline"
+       y="26.649027"
+       x="1801.8259"
+       id="image4408-2-5-0"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/walls/wall1.png"
+       height="48"
+       width="27" />
+    <image
+       style="display:inline"
+       y="26.68638"
+       x="1828.8237"
+       id="image4408-8-9-9-7"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/walls/wall1.png"
+       height="48"
+       width="27" />
+    <image
+       y="319.16348"
+       x="899.48218"
+       id="image4701"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/walls/wall-end2.png"
+       height="48"
+       width="23" />
+    <image
+       y="1057.2006"
+       x="216.42583"
+       id="image4712"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/walls/plot1-dziura.png"
+       height="27"
+       width="25" />
+    <image
+       y="959.9433"
+       x="408.67416"
+       id="image4723"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/walls/plot1-dziura.png"
+       height="27"
+       width="25" />
+    <image
+       style="display:inline"
+       y="400.71317"
+       x="466.52438"
+       id="image4408-2-1"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/walls/wall1.png"
+       height="48"
+       width="27" />
+    <image
+       style="display:inline"
+       y="400.75052"
+       x="493.52213"
+       id="image4408-8-9-7"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/walls/wall1.png"
+       height="48"
+       width="27" />
+    <image
+       style="display:inline"
+       y="400.65833"
+       x="443.54532"
+       id="image4701-7"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/walls/wall-end2.png"
+       height="48"
+       width="23" />
+    <image
+       style="display:inline"
+       y="400.68515"
+       x="547.35504"
+       id="image4408-1-7-7"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/walls/wall1.png"
+       height="48"
+       width="27" />
+    <image
+       y="400.68335"
+       x="574.2641"
+       id="image4779"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/walls/wall-end.png"
+       height="48"
+       width="23" />
+    <image
+       y="400.73215"
+       x="520.51788"
+       id="image4790"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/walls/wall2.png"
+       height="48"
+       width="27" />
+    <image
+       style="display:inline"
+       y="183.57452"
+       x="877.44324"
+       id="image4077-8-3"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/walls/plot2.png"
+       height="41"
+       width="2" />
+    <image
+       style="display:inline"
+       y="202.32452"
+       x="877.44312"
+       id="image4077-6-3"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/walls/plot2.png"
+       height="41"
+       width="2" />
+    <image
+       style="display:inline"
+       y="216.01752"
+       x="926.35474"
+       id="image4055-6-5"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/walls/plot1.png"
+       height="27"
+       width="25" />
+    <image
+       style="display:inline"
+       y="215.9245"
+       x="950.32385"
+       id="image4055-1-0-9"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/walls/plot1.png"
+       height="27"
+       width="25" />
+    <image
+       style="display:inline"
+       y="215.97035"
+       x="902.36841"
+       id="image4712-8"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/walls/plot1-dziura.png"
+       height="27"
+       width="25" />
+    <image
+       style="display:inline"
+       y="183.19545"
+       x="998.388"
+       id="image4077-8-3-8"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/walls/plot2.png"
+       height="41"
+       width="2" />
+    <image
+       style="display:inline"
+       y="183.53363"
+       x="926.3421"
+       id="image4055-6-6"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/walls/plot1.png"
+       height="27"
+       width="25" />
+    <image
+       style="display:inline"
+       y="183.44061"
+       x="950.31122"
+       id="image4055-1-0-6"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/walls/plot1.png"
+       height="27"
+       width="25" />
+    <image
+       style="display:inline"
+       y="183.47528"
+       x="902.43402"
+       id="image4055-1-3-0-3"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/walls/plot1.png"
+       height="27"
+       width="25" />
+    <image
+       style="display:inline"
+       y="183.61273"
+       x="878.4278"
+       id="image4712-80"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/walls/plot1-dziura.png"
+       height="27"
+       width="25" />
+    <image
+       style="display:inline"
+       y="183.375"
+       x="974.37494"
+       id="image4712-80-1"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/walls/plot1-dziura.png"
+       height="27"
+       width="25" />
+    <image
+       y="797.12146"
+       x="372.69937"
+       id="image4921"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/przeszkody/car1.png"
+       height="47"
+       width="37" />
+    <image
+       style="display:inline"
+       y="995"
+       x="232.99998"
+       id="image4932"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/przeszkody/car2.png"
+       height="40"
+       width="54" />
+    <image
+       y="866.85712"
+       x="863.28571"
+       id="image4972"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/przeszkody/car3.png"
+       height="47"
+       width="37" />
+    <image
+       y="943.21423"
+       x="1100.8572"
+       id="image4983"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/przeszkody/car2.png"
+       height="40"
+       width="54" />
+    <image
+       style="display:inline"
+       y="283.6207"
+       x="559.12415"
+       id="image4994"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/przeszkody/car1.png"
+       height="47"
+       width="37" />
+    <image
+       style="display:inline"
+       y="346.12955"
+       x="439.50964"
+       id="image5005"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/przeszkody/car2.png"
+       height="40"
+       width="54" />
+    <image
+       y="753.47388"
+       x="257.8129"
+       id="image5059"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/budynki/stacja-1.png"
+       height="67"
+       width="69" />
+    <image
+       style="display:inline"
+       y="851.5296"
+       x="275.87274"
+       id="image5070"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/budynki/stacja-2.png"
+       height="22"
+       width="87" />
+    <image
+       y="706.15076"
+       x="665.87537"
+       id="image5110"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/budynki/motel-1.png"
+       height="98"
+       width="246" />
+    <image
+       y="804.16608"
+       x="605.82404"
+       id="image5121"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/budynki/motel-2.png"
+       height="67"
+       width="53" />
+    <image
+       y="132.47908"
+       x="516.47009"
+       id="image5161"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/budynki/diner-1.png"
+       height="76"
+       width="125" />
+    <image
+       y="168.98203"
+       x="1020.9231"
+       id="image5172"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/przeszkody/car3.png"
+       height="47"
+       width="37" />
+    <image
+       y="131.85715"
+       x="185.78572"
+       id="image5183"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/przeszkody/car3.png"
+       height="47"
+       width="37" />
+    <image
+       y="851.65283"
+       x="541.33746"
+       id="image5205"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/przeszkody/barrel.png"
+       height="22"
+       width="15" />
+    <image
+       style="display:inline"
+       y="858.04877"
+       x="549.09406"
+       id="image5205-2"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/przeszkody/barrel.png"
+       height="22"
+       width="15" />
+    <image
+       style="display:inline"
+       y="868.15033"
+       x="539.75012"
+       id="image5205-5"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/przeszkody/barrel.png"
+       height="22"
+       width="15" />
+    <image
+       style="display:inline"
+       y="818.52655"
+       x="546.56866"
+       id="image5205-0"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/przeszkody/barrel.png"
+       height="22"
+       width="15" />
+    <image
+       style="display:inline"
+       y="1009"
+       x="272.14288"
+       id="image5205-9"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/przeszkody/barrel.png"
+       height="22"
+       width="15" />
+    <image
+       style="display:inline"
+       y="1017.5714"
+       x="258.57144"
+       id="image5205-4"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/przeszkody/barrel.png"
+       height="22"
+       width="15" />
+    <image
+       style="display:inline"
+       y="977.21436"
+       x="476.78571"
+       id="image5205-7"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/przeszkody/barrel.png"
+       height="22"
+       width="15" />
+    <image
+       style="display:inline"
+       y="987.92853"
+       x="473.92856"
+       id="image5205-8"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/przeszkody/barrel.png"
+       height="22"
+       width="15" />
+    <image
+       style="display:inline"
+       y="1066.9807"
+       x="828.94653"
+       id="image5205-3"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/przeszkody/barrel.png"
+       height="22"
+       width="15" />
+    <image
+       style="display:inline"
+       y="1067.5714"
+       x="843.57141"
+       id="image5205-51"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/przeszkody/barrel.png"
+       height="22"
+       width="15" />
+    <image
+       style="display:inline"
+       y="1071.7679"
+       x="862.67859"
+       id="image5205-20"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/przeszkody/barrel.png"
+       height="22"
+       width="15" />
+    <image
+       style="display:inline"
+       y="497.0455"
+       x="963.76166"
+       id="image5205-1"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/przeszkody/barrel.png"
+       height="22"
+       width="15" />
+    <image
+       style="display:inline"
+       y="499.0658"
+       x="976.38855"
+       id="image5205-6"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/przeszkody/barrel.png"
+       height="22"
+       width="15" />
+    <image
+       style="display:inline"
+       y="497.0455"
+       x="998.61194"
+       id="image5205-40"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/przeszkody/barrel.png"
+       height="22"
+       width="15" />
+    <image
+       style="display:inline"
+       y="506.1369"
+       x="970.32764"
+       id="image5205-61"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/przeszkody/barrel.png"
+       height="22"
+       width="15" />
+    <image
+       style="display:inline"
+       y="541.05994"
+       x="163.31891"
+       id="image5205-84"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/przeszkody/barrel.png"
+       height="22"
+       width="15" />
+    <image
+       style="display:inline"
+       y="563.89667"
+       x="160.76038"
+       id="image5205-14"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/przeszkody/barrel.png"
+       height="22"
+       width="15" />
+    <image
+       style="display:inline"
+       y="541.0528"
+       x="190.35715"
+       id="image5205-39"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/przeszkody/barrel.png"
+       height="22"
+       width="15" />
+    <image
+       style="display:inline"
+       y="548.82141"
+       x="184.82143"
+       id="image5205-88"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/przeszkody/barrel.png"
+       height="22"
+       width="15" />
+    <image
+       style="display:inline"
+       y="542.99512"
+       x="174.80347"
+       id="image5205-08"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/przeszkody/barrel.png"
+       height="22"
+       width="15" />
+    <image
+       style="display:inline"
+       y="540.96423"
+       x="213.39285"
+       id="image5205-77"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/przeszkody/barrel.png"
+       height="22"
+       width="15" />
+    <image
+       style="display:inline"
+       y="132.12791"
+       x="174.83253"
+       id="image5205-109"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/przeszkody/barrel.png"
+       height="22"
+       width="15" />
+    <image
+       style="display:inline"
+       y="511.45477"
+       x="120.14695"
+       id="image5205-83"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/przeszkody/barrel.png"
+       height="22"
+       width="15" />
+    <image
+       style="display:inline"
+       y="522.16907"
+       x="116.93266"
+       id="image5205-837"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/przeszkody/barrel.png"
+       height="22"
+       width="15" />
+    <image
+       style="display:inline"
+       y="430.71494"
+       x="70.755196"
+       id="image5205-10"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/przeszkody/barrel.png"
+       height="22"
+       width="15" />
+    <image
+       style="display:inline"
+       y="440.05887"
+       x="75.300888"
+       id="image5205-73"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/przeszkody/barrel.png"
+       height="22"
+       width="15" />
+    <image
+       style="display:inline"
+       y="442.83676"
+       x="56.613068"
+       id="image5205-49"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/przeszkody/barrel.png"
+       height="22"
+       width="15" />
+    <image
+       style="display:inline"
+       y="145.78571"
+       x="839.64282"
+       id="image5205-109-9"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/przeszkody/barrel.png"
+       height="22"
+       width="15" />
+    <image
+       style="display:inline"
+       y="151.85715"
+       x="825.35712"
+       id="image5205-109-6"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/przeszkody/barrel.png"
+       height="22"
+       width="15" />
+    <image
+       style="display:inline"
+       y="409.35712"
+       x="1111.0714"
+       id="image5205-109-8"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/przeszkody/barrel.png"
+       height="22"
+       width="15" />
+    <image
+       y="433.01324"
+       x="666.36102"
+       id="image5500"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/przeszkody/crate1.png"
+       height="24"
+       width="17" />
+    <image
+       style="display:inline"
+       y="433.17859"
+       x="650.42859"
+       id="image5500-4"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/przeszkody/crate1.png"
+       height="24"
+       width="17" />
+    <image
+       style="display:inline"
+       y="433.17859"
+       x="634.71429"
+       id="image5500-8"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/przeszkody/crate1.png"
+       height="24"
+       width="17" />
+    <image
+       style="display:inline"
+       y="556.92859"
+       x="295.07144"
+       id="image5500-2"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/przeszkody/crate1.png"
+       height="24"
+       width="17" />
+    <image
+       style="display:inline"
+       y="566.15302"
+       x="267.76578"
+       id="image5500-5"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/przeszkody/crate1.png"
+       height="24"
+       width="17" />
+    <image
+       y="60.215439"
+       x="460.93414"
+       id="image5571"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/przeszkody/stone1.png"
+       height="34"
+       width="60" />
+    <image
+       style="display:inline"
+       y="1073.3984"
+       x="1048.3379"
+       id="image5571-3"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/przeszkody/stone1.png"
+       height="34"
+       width="60" />
+    <image
+       style="display:inline"
+       y="1127.9467"
+       x="540.73621"
+       id="image5571-33"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/przeszkody/stone1.png"
+       height="34"
+       width="60" />
+    <image
+       style="display:inline"
+       y="813.28418"
+       x="47.276669"
+       id="image5571-7"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/przeszkody/stone1.png"
+       height="34"
+       width="60" />
+    <image
+       y="544.42859"
+       x="989.78571"
+       id="image5744"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/przeszkody/stone2.png"
+       height="34"
+       width="39" />
+    <image
+       style="display:inline"
+       y="185.14285"
+       x="1071.9286"
+       id="image5744-8"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/przeszkody/stone2.png"
+       height="34"
+       width="39" />
+    <image
+       style="display:inline"
+       y="1118.7144"
+       x="1006.9286"
+       id="image5744-0"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/przeszkody/stone2.png"
+       height="34"
+       width="39" />
+    <image
+       style="display:inline"
+       y="595.85712"
+       x="623.35712"
+       id="image5780"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/przeszkody/stone3.png"
+       height="44"
+       width="59" />
+    <image
+       y="430.40082"
+       x="558.72607"
+       id="image5827"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/przeszkody/tires1.png"
+       height="27"
+       width="22" />
+    <image
+       style="display:inline"
+       y="728.90088"
+       x="206.68787"
+       id="image5827-6"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/przeszkody/tires1.png"
+       height="27"
+       width="22" />
+    <image
+       style="display:inline"
+       y="1018.3095"
+       x="240.528"
+       id="image5827-8"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/przeszkody/tires1.png"
+       height="27"
+       width="22" />
+    <image
+       style="display:inline"
+       y="1083.717"
+       x="922.63354"
+       id="image5827-1"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/przeszkody/tires1.png"
+       height="27"
+       width="22" />
+    <image
+       style="display:inline"
+       y="385.9541"
+       x="883.23755"
+       id="image5827-9"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/przeszkody/tires1.png"
+       height="27"
+       width="22" />
+    <image
+       y="391.55057"
+       x="889.63733"
+       id="image5877"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/przeszkody/tires2.png"
+       height="35"
+       width="39" />
+    <image
+       style="display:inline"
+       y="734.49731"
+       x="344.15491"
+       id="image5877-8"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/przeszkody/tires2.png"
+       height="35"
+       width="39" />
+    <image
+       style="display:inline"
+       y="151.63933"
+       x="1062.8784"
+       id="image5877-9"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/przeszkody/tires2.png"
+       height="35"
+       width="39" />
+    <image
+       y="461.67999"
+       x="580.92401"
+       id="image5913"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/przeszkody/tires3.png"
+       height="20"
+       width="17" />
+    <image
+       style="display:inline"
+       y="711.18774"
+       x="267.7767"
+       id="image5913-7"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/przeszkody/tires3.png"
+       height="20"
+       width="17" />
+    <image
+       style="display:inline"
+       y="999.08118"
+       x="356.16507"
+       id="image5913-2"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/przeszkody/tires3.png"
+       height="20"
+       width="17" />
+    <image
+       style="display:inline"
+       y="966.75629"
+       x="1127.4165"
+       id="image5913-8"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/przeszkody/tires3.png"
+       height="20"
+       width="17" />
+    <image
+       style="display:inline"
+       y="501.07596"
+       x="1011.754"
+       id="image5913-28"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/przeszkody/tires3.png"
+       height="20"
+       width="17" />
+    <image
+       style="display:inline"
+       y="81.428566"
+       x="532.92859"
+       id="image5913-9"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/przeszkody/tires3.png"
+       height="20"
+       width="17" />
+    <image
+       y="568.02521"
+       x="654.82251"
+       id="image5995"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/trees/tree2.png"
+       height="75"
+       width="48" />
+    <image
+       style="display:inline"
+       y="576.10645"
+       x="1076.5612"
+       id="image5995-0"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/trees/tree2.png"
+       height="75"
+       width="48" />
+    <image
+       style="display:inline"
+       y="666.01001"
+       x="956.35303"
+       id="image5995-7"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/trees/tree2.png"
+       height="75"
+       width="48" />
+    <image
+       style="display:inline"
+       y="1024.6141"
+       x="992.71857"
+       id="image5995-8"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/trees/tree2.png"
+       height="75"
+       width="48" />
+    <image
+       style="display:inline"
+       y="1121.0837"
+       x="608.35547"
+       id="image5995-86"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/trees/tree2.png"
+       height="75"
+       width="48" />
+    <image
+       style="display:inline"
+       y="989.25885"
+       x="552.29199"
+       id="image5995-4"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/trees/tree2.png"
+       height="75"
+       width="48" />
+    <image
+       style="display:inline"
+       y="1032.6954"
+       x="112.87567"
+       id="image5995-2"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/trees/tree2.png"
+       height="75"
+       width="48" />
+    <image
+       style="display:inline"
+       y="614.49225"
+       x="326.52292"
+       id="image5995-5"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/trees/tree2.png"
+       height="75"
+       width="48" />
+    <image
+       style="display:inline"
+       y="541.76123"
+       x="383.09146"
+       id="image5995-862"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/trees/tree2.png"
+       height="75"
+       width="48" />
+    <image
+       style="display:inline"
+       y="61.433723"
+       x="269.44931"
+       id="image5995-53"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/trees/tree2.png"
+       height="75"
+       width="48" />
+    <image
+       style="display:inline"
+       y="371.0455"
+       x="39.63961"
+       id="image5995-9"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/trees/tree2.png"
+       height="75"
+       width="48" />
+    <image
+       style="display:inline"
+       y="37.5"
+       x="768.85712"
+       id="image5995-24"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/trees/tree2.png"
+       height="75"
+       width="48" />
+    <image
+       y="72.5"
+       x="827"
+       id="image6129"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/trees/tree1.png"
+       height="55"
+       width="36" />
+    <image
+       style="display:inline"
+       y="35.357143"
+       x="1037.7142"
+       id="image6129-6"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/trees/tree1.png"
+       height="55"
+       width="36" />
+    <image
+       style="display:inline"
+       y="382.5"
+       x="1009.1429"
+       id="image6129-1"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/trees/tree1.png"
+       height="55"
+       width="36" />
+    <image
+       style="display:inline"
+       y="608.83484"
+       x="1056.8024"
+       id="image6129-2"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/trees/tree1.png"
+       height="55"
+       width="36" />
+    <image
+       style="display:inline"
+       y="639.13947"
+       x="1103.7744"
+       id="image6129-11"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/trees/tree1.png"
+       height="55"
+       width="36" />
+    <image
+       style="display:inline"
+       y="628.02777"
+       x="849.72101"
+       id="image6129-9"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/trees/tree1.png"
+       height="55"
+       width="36" />
+    <image
+       style="display:inline"
+       y="977.03546"
+       x="975.48499"
+       id="image6129-7"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/trees/tree1.png"
+       height="55"
+       width="36" />
+    <image
+       style="display:inline"
+       y="1122.4974"
+       x="948.21094"
+       id="image6129-62"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/trees/tree1.png"
+       height="55"
+       width="36" />
+    <image
+       style="display:inline"
+       y="1145.2258"
+       x="639.10425"
+       id="image6129-95"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/trees/tree1.png"
+       height="55"
+       width="36" />
+    <image
+       style="display:inline"
+       y="1095.2234"
+       x="317.37064"
+       id="image6129-0"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/trees/tree1.png"
+       height="55"
+       width="36" />
+    <image
+       style="display:inline"
+       y="814.90601"
+       x="150.1904"
+       id="image6129-3"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/trees/tree1.png"
+       height="55"
+       width="36" />
+    <image
+       style="display:inline"
+       y="644.69531"
+       x="306.25897"
+       id="image6129-8"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/trees/tree1.png"
+       height="55"
+       width="36" />
+    <image
+       style="display:inline"
+       y="118.40582"
+       x="117.86552"
+       id="image6129-19"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/trees/tree1.png"
+       height="55"
+       width="36" />
+    <image
+       y="-11.190662"
+       x="521.94684"
+       id="image6256"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/trees/tree3.png"
+       height="96"
+       width="40" />
+    <image
+       style="display:inline"
+       y="26.690062"
+       x="1004.7997"
+       id="image6256-5"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/trees/tree3.png"
+       height="96"
+       width="40" />
+    <image
+       style="display:inline"
+       y="277.20789"
+       x="1125.0081"
+       id="image6256-3"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/trees/tree3.png"
+       height="96"
+       width="40" />
+    <image
+       style="display:inline"
+       y="572.17242"
+       x="1011.3657"
+       id="image6256-2"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/trees/tree3.png"
+       height="96"
+       width="40" />
+    <image
+       style="display:inline"
+       y="506.51248"
+       x="492.14731"
+       id="image6256-52"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/trees/tree3.png"
+       height="96"
+       width="40" />
+    <image
+       style="display:inline"
+       y="1088.8655"
+       x="979.04083"
+       id="image6256-58"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/trees/tree3.png"
+       height="96"
+       width="40" />
+    <image
+       style="display:inline"
+       y="1043.4086"
+       x="56.266521"
+       id="image6256-6"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/trees/tree3.png"
+       height="96"
+       width="40" />
+    <image
+       style="display:inline"
+       y="624.19531"
+       x="364.86813"
+       id="image6256-7"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/trees/tree3.png"
+       height="96"
+       width="40" />
+    <image
+       style="display:inline"
+       y="462.86783"
+       x="761.83777"
+       id="image6129-9-7"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/trees/tree1.png"
+       height="55"
+       width="36" />
+    <image
+       style="display:inline"
+       y="458.42368"
+       x="724.52301"
+       id="image5995-22"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/trees/tree2.png"
+       height="75"
+       width="48" />
+    <image
+       style="display:inline"
+       y="27.088537"
+       x="553.80725"
+       id="image5995-1"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/trees/tree2.png"
+       height="75"
+       width="48" />
+    <image
+       y="7.0682368"
+       x="19.09901"
+       id="image6377"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/trees/tree4.png"
+       height="111"
+       width="81" />
+    <image
+       y="627.01764"
+       x="76.954346"
+       id="image6406"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/build/img/trees/tree1.png"
+       height="55"
+       width="36" />
+    <image
+       y="709.93073"
+       x="229.16884"
+       id="image3284"
+       xlink:href="file:///D:/Dropbox/SubFty/LD%20Zambies/newbuild/img/budynki/latryna.png"
+       height="46"
+       width="23" />
+  </g>
+  <g
+     style="display:inline"
+     inkscape:label="Markers"
+     id="Markers"
+     inkscape:groupmode="layer">
+    <rect
+       rx="6.0323986e-017"
+       ry="6.0323986e-017"
+       y="576.95654"
+       x="570.91919"
+       height="26.428572"
+       width="20"
+       id="startPoint"
+       style="fill:#00000b;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <rect
+       ry="6.0323986e-017"
+       rx="6.0323986e-017"
+       y="1803.4607"
+       x="1470.4652"
+       height="24.748737"
+       width="24.243662"
+       id="swarmPoint1"
+       style="fill:#ffa000;fill-opacity:1;stroke:#ff9d00;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <rect
+       ry="6.0323986e-017"
+       rx="6.0323986e-017"
+       y="920.44916"
+       x="1015.637"
+       height="24.748737"
+       width="24.243662"
+       id="swarmPoint1-1"
+       style="fill:#ffa000;fill-opacity:1;stroke:#ff9d00;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
+    <rect
+       transform="matrix(1,0,0,0.61249999,523.25902,428.84998)"
+       ry="9.8488141e-017"
+       rx="6.0323986e-017"
+       y="1581.807"
+       x="183.84776"
+       height="40.406101"
+       width="24.243662"
+       id="swarmPoint1-7"
+       style="fill:#ffa000;fill-opacity:1;stroke:#ff9d00;stroke-width:1.27775311;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
+    <rect
+       ry="6.0323986e-017"
+       rx="6.0323986e-017"
+       y="1018.0432"
+       x="321.66647"
+       height="24.748737"
+       width="24.243662"
+       id="swarmPoint1-4"
+       style="fill:#ffa000;fill-opacity:1;stroke:#ff9d00;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
+    <rect
+       transform="matrix(1,0,0,0.61249999,1515.2288,-710.6021)"
+       ry="9.8488141e-017"
+       rx="6.0323986e-017"
+       y="1581.807"
+       x="183.84776"
+       height="40.406101"
+       width="24.243662"
+       id="swarmPoint1-0"
+       style="fill:#ffa000;fill-opacity:1;stroke:#ff9d00;stroke-width:1.27775311;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
+    <rect
+       ry="6.0323986e-017"
+       rx="6.0323986e-017"
+       y="641.69934"
+       x="119.02979"
+       height="24.748737"
+       width="24.243662"
+       id="swarmPoint1-9"
+       style="fill:#ffa000;fill-opacity:1;stroke:#ff9d00;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
+    <rect
+       ry="6.0323986e-017"
+       rx="6.0323986e-017"
+       y="281.45123"
+       x="521.12274"
+       height="24.748737"
+       width="24.243662"
+       id="swarmPoint1-48"
+       style="fill:#ffa000;fill-opacity:1;stroke:#ff9d00;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
+    <rect
+       ry="6.0323986e-017"
+       rx="6.0323986e-017"
+       y="276.19952"
+       x="284.45691"
+       height="24.748737"
+       width="24.243662"
+       id="swarmPoint1-8"
+       style="fill:#ffa000;fill-opacity:1;stroke:#ff9d00;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
+    <rect
+       ry="6.0323986e-017"
+       rx="6.0323986e-017"
+       y="401.90237"
+       x="969.93927"
+       height="24.748737"
+       width="24.243662"
+       id="swarmPoint1-2"
+       style="fill:#ffa000;fill-opacity:1;stroke:#ff9d00;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
+    <rect
+       ry="6.0323986e-017"
+       rx="6.0323986e-017"
+       y="917.1889"
+       x="796.91394"
+       height="24.748737"
+       width="24.243662"
+       id="swarmPoint1-45"
+       style="fill:#ffa000;fill-opacity:1;stroke:#ff9d00;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
+    <rect
+       ry="6.0323986e-017"
+       rx="6.0323986e-017"
+       y="283.77313"
+       x="823.37793"
+       height="24.748737"
+       width="24.243662"
+       id="swarmPoint1-5"
+       style="fill:#ffa000;fill-opacity:1;stroke:#ff9d00;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
+    <rect
+       style="fill:#b0ff00;fill-opacity:1;stroke:#ff9d00;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="casualSwarm"
+       width="22.223356"
+       height="24.243662"
+       x="238.396"
+       y="1541.401"
+       rx="6.0323986e-017"
+       ry="6.0323986e-017" />
+    <rect
+       transform="translate(8.0812271,370.72593)"
+       style="fill:#b0ff00;fill-opacity:1;stroke:#ff9d00;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       id="casualSwarm-1"
+       width="22.223356"
+       height="24.243662"
+       x="238.396"
+       y="1541.401"
+       rx="6.0323986e-017"
+       ry="6.0323986e-017" />
+    <rect
+       transform="translate(918.22867,216.17259)"
+       style="fill:#b0ff00;fill-opacity:1;stroke:#ff9d00;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       id="casualSwarm-7"
+       width="22.223356"
+       height="24.243662"
+       x="238.396"
+       y="1541.401"
+       rx="6.0323986e-017"
+       ry="6.0323986e-017" />
+    <rect
+       transform="translate(-144.45181,-117.17775)"
+       style="fill:#b0ff00;fill-opacity:1;stroke:#ff9d00;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       id="casualSwarm-11"
+       width="22.223356"
+       height="24.243662"
+       x="238.396"
+       y="1541.401"
+       rx="6.0323986e-017"
+       ry="6.0323986e-017" />
+    <rect
+       style="fill:#b0ff00;fill-opacity:1;stroke:#ff9d00;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       id="casualSwarm-5"
+       width="22.223356"
+       height="24.243662"
+       x="1023.6672"
+       y="682.47992"
+       rx="6.0323986e-017"
+       ry="6.0323986e-017" />
+    <rect
+       transform="translate(257.5889,-163.64477)"
+       style="fill:#b0ff00;fill-opacity:1;stroke:#ff9d00;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       id="casualSwarm-2"
+       width="22.223356"
+       height="24.243662"
+       x="238.396"
+       y="1541.401"
+       rx="6.0323986e-017"
+       ry="6.0323986e-017" />
+    <rect
+       transform="translate(514.16765,42.426353)"
+       style="fill:#b0ff00;fill-opacity:1;stroke:#ff9d00;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       id="casualSwarm-76"
+       width="22.223356"
+       height="24.243662"
+       x="238.396"
+       y="1541.401"
+       rx="6.0323986e-017"
+       ry="6.0323986e-017" />
+    <rect
+       transform="translate(259.60921,179.8071)"
+       style="fill:#b0ff00;fill-opacity:1;stroke:#ff9d00;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       id="casualSwarm-14"
+       width="22.223356"
+       height="24.243662"
+       x="238.396"
+       y="1541.401"
+       rx="6.0323986e-017"
+       ry="6.0323986e-017" />
+    <rect
+       transform="translate(190.91884,-811.15255)"
+       style="fill:#b0ff00;fill-opacity:1;stroke:#ff9d00;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       id="casualSwarm-23"
+       width="22.223356"
+       height="24.243662"
+       x="238.396"
+       y="1541.401"
+       rx="6.0323986e-017"
+       ry="6.0323986e-017" />
+  </g>
+</svg>

@@ -1,0 +1,17 @@
+<lang>
+<intro>
+	<dialog text="-Gosh, I'm all out of food and water. I need to get out of here and get to Safety."/>
+	<dialog text="-And I've only got one bullet left."/>
+	<dialog text="-Luckily, It's a Zambie skull seeking bullet, and it will follow the mouse cursor after being fired, killing all the zambies on it's path."/>
+	<dialog text="-Well, I'd better get going."/>
+
+</intro>
+
+<afterleave>
+	<dialog text="-I think I should be heading north."/>
+</afterleave>
+
+<aproaching_forest>
+	<dialog text="-I think I shouldn't be going into the forest. It's probably swarmed with zambies."/>
+</aproaching_forest>
+</lang>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project>
+	
+	<meta title="Ld28" package="com.subfty.ld28" version="1.0.0" company="Subachine Factory" />
+	<app main="com.subfty.ld28.Main" path="Export" file="Ld28" />
+	
+	<window background="#000000" fps="60" />
+    <window width="640" height="640" resizable="false" orientation="portrait" />
+
+	<source path="Source" />
+	
+	<assets rename="layouts"  path="Assets/layouts" />
+    <assets rename="data" path="Assets/data" />
+    <assets rename="fonts" path="Assets/fonts" />
+    <assets rename="img" path="Assets/img" />
+    <assets rename="music" path="Assets/music" include="*.wav"/>
+    <assets rename="icons" path="Assets/icons" />
+
+    <assets path="Assets/music/game2.mp3" id="game2" if="flash" />
+    <assets path="Assets/music/game2.ogg" id="game2" if="native" />
+
+    <assets path="Assets/music/menu.mp3" id="menu" if="flash" />
+    <assets path="Assets/music/menu.ogg" id="menu" if="native" />
+
+	<haxelib name="openfl" />
+    <haxelib name="lime" />
+    <haxelib name="lime-tools" />
+	<haxelib name="polygonal-ds" />
+    <haxelib name="polygonal-core" />
+    <haxelib name="actuate" />
+    <haxelib name="sub" />
+    <haxelib name="nape" />
+	
+	<assets path="Assets" rename="assets" exclude="openfl.svg" />
+	<icon path="Assets/icons/zamb16.ico" size="16" />
+    <icon path="Assets/icons/zamb32.ico" size="32" />
+    <icon path="Assets/icons/zamb48.ico" size="48" />
+    <icon path="Assets/icons/zamb64.ico" size="64" />
+    <icon path="Assets/icons/zamb96.ico" size="96" />
+    <icon path="Assets/icons/zamb128.ico" size="128" />
+    <icon path="Assets/icons/icon.ico" size="128" />
+    <icon path="Assets/icons/zamb256.ico" size="256" />
+    <icon path="Assets/icons/zamb96.ico" />
+	
+	<haxedef name="SHOW_FPS" if="windows"/>
+    <haxedef name="USE_NAPE" />
+
+</project>

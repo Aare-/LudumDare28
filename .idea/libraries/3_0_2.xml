@@ -1,0 +1,47 @@
+<component name="libraryTable">
+  <library name="3,0,2" type="haXe">
+    <CLASSES>
+      <root url="file://C:/HaxeToolkit/haxe/lib/hxcpp/3,0,2" />
+      <root url="file://C:/HaxeToolkit/haxe/lib/openfl/1,0,5" />
+      <root url="file://C:/HaxeToolkit/haxe/lib/openfl/1,0,6" />
+      <root url="file://C:/HaxeToolkit/haxe/lib/polygonal-ds/1,4,0" />
+      <root url="file://C:/HaxeToolkit/haxe/lib/polygonal-ds/1,4,1" />
+      <root url="file://C:/HaxeToolkit/haxe/lib/polygonal-core/1,0,3" />
+      <root url="file://C:/HaxeToolkit/haxe/lib/polygonal-core/1,0,4" />
+      <root url="file://C:/HaxeToolkit/haxe/lib/openfl-native/1,0,6" />
+      <root url="file://C:/HaxeToolkit/haxe/lib/openfl-native/1,0,7" />
+      <root url="file://C:/HaxeToolkit/haxe/lib/openfl-native/1,0,8" />
+      <root url="file://C:/HaxeToolkit/haxe/lib/sub/0,1" />
+      <root url="file://C:/HaxeToolkit/haxe/lib/actuate/1,6,3" />
+      <root url="file://C:/HaxeToolkit/haxe/lib/actuate/1,6,4" />
+      <root url="file://C:/HaxeToolkit/haxe/lib/actuate/1,7,0" />
+      <root url="file://C:/HaxeToolkit/haxe/lib/nape/2,0,9" />
+      <root url="file://C:/HaxeToolkit/haxe/lib/nape/2,0,10" />
+      <root url="file://C:/HaxeToolkit/haxe/lib/nape/2,0,11" />
+      <root url="file://C:/HaxeToolkit/haxe/lib/nape/2,0,12" />
+      <root url="file://C:/HaxeToolkit/haxe/lib/nape/2,0,13" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://C:/HaxeToolkit/haxe/lib/hxcpp/3,0,2" />
+      <root url="file://C:/HaxeToolkit/haxe/lib/openfl/1,0,5" />
+      <root url="file://C:/HaxeToolkit/haxe/lib/openfl/1,0,6" />
+      <root url="file://C:/HaxeToolkit/haxe/lib/polygonal-ds/1,4,0" />
+      <root url="file://C:/HaxeToolkit/haxe/lib/polygonal-ds/1,4,1" />
+      <root url="file://C:/HaxeToolkit/haxe/lib/polygonal-core/1,0,3" />
+      <root url="file://C:/HaxeToolkit/haxe/lib/polygonal-core/1,0,4" />
+      <root url="file://C:/HaxeToolkit/haxe/lib/openfl-native/1,0,6" />
+      <root url="file://C:/HaxeToolkit/haxe/lib/openfl-native/1,0,7" />
+      <root url="file://C:/HaxeToolkit/haxe/lib/openfl-native/1,0,8" />
+      <root url="file://C:/HaxeToolkit/haxe/lib/sub/0,1" />
+      <root url="file://C:/HaxeToolkit/haxe/lib/actuate/1,6,3" />
+      <root url="file://C:/HaxeToolkit/haxe/lib/actuate/1,6,4" />
+      <root url="file://C:/HaxeToolkit/haxe/lib/actuate/1,7,0" />
+      <root url="file://C:/HaxeToolkit/haxe/lib/nape/2,0,9" />
+      <root url="file://C:/HaxeToolkit/haxe/lib/nape/2,0,10" />
+      <root url="file://C:/HaxeToolkit/haxe/lib/nape/2,0,11" />
+      <root url="file://C:/HaxeToolkit/haxe/lib/nape/2,0,12" />
+      <root url="file://C:/HaxeToolkit/haxe/lib/nape/2,0,13" />
+    </SOURCES>
+  </library>
+</component>
